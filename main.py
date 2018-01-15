@@ -9,8 +9,8 @@ import database
 from multiprocessing import Pool
 import time
 
-# if __name__ == "__main__":
-#     # get all singer information in the QQMusic
+# get all singer information in the QQMusic
+# if __name__ == "__main__":     
 #     for url in urls:
 #         get_singers(url)
 
